@@ -17,7 +17,7 @@ setuptools.setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'httpx>=0.14.2'
+        'httpx>=0.28.1'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
